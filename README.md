@@ -5,10 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcilio-m-farias)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4rciliofarias/)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=marciliofarias&theme=dracula&hide_border=true) 
-![](https://github-readme-stats.vercel.app/api?username=marciliofarias&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&hide_border=true)
-
 ## 💻Tech Stack
     
 <div style="display: inline_block">
@@ -22,4 +18,11 @@
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
-</div>
+</div><br>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=marciliofarias&theme=dracula&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api?username=marciliofarias&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciliofarias&layout=compact&theme=dracula&hide_border=true)
+
+

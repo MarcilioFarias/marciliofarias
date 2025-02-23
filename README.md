@@ -21,8 +21,8 @@
 </div><br>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=marciliofarias&theme=dracula&hide_border=true) 
-![](https://github-readme-stats.vercel.app/api?username=marciliofarias&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciliofarias&layout=compact&theme=dracula&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=marciliofarias&theme=transparent&card_width=500&card_height=200) 
+![](https://github-readme-stats.vercel.app/api?username=marciliofarias&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&card_width=500&custom_title=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciliofarias&layout=compact&theme=transparent)
 
 
